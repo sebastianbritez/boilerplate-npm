@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
   "version": "1.0.0",
-  "keywords": ["autodidacta", "freecodecamp", "trying", "descriptive", "related", "words"],
+  "keywords": ["autodidacta", "freecodecamp", "trying", "descriptive", "related", "words" ],
   "author": "Sebastian Britez",
   "license": "ISC"
 }
